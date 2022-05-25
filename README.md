@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @reggechambers
-- 👀 I’m interested in Web Development, Virtual Software Engineering, Mobile Development and Application Development!
-- 🌱 I’m currently learning JavaScript, C++, React and Node.
+- 👀 I’m interested in Data Science, Statistics and Data Analytics!
+- 🌱 I’m currently learning SQL, Python, R.
 - 💞️ I’m looking to collaborate on lots of things.
-- 📫 How to reach me ...
+- 📫 How to reach me: https://www.linkedin.com/in/reggechambers/
 
 <!---
 reggechambers/reggechambers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
