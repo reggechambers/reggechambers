@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reggechambers
-- 👀 I’m interested in Data Science, Statistics and Data Analytics!
+- 👀 I’m interested in Data Engineering & Data Science!
 - 🌱 I’m currently learning SQL, Python, R.
 - 💞️ I’m looking to collaborate on lots of things.
 - 📫 How to reach me: https://www.linkedin.com/in/reggechambers/
